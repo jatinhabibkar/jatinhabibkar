@@ -4,6 +4,11 @@
 
 [![Source's github stats](https://github-readme-stats.vercel.app/api?username=JATIN2111999&count_private=true&show_icons=true)](https://www.linkedin.com/in/jatinhabibkar/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JATIN2111999&layout=compact)](https://www.linkedin.com/in/jatinhabibkar/) 
+
+![](https://komarev.com/ghpvc/?username=JATIN2111999)
+
+
 
 
 <!--
