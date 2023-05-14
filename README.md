@@ -4,12 +4,12 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/autocadme)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jatinkrishnahabibkar@gmail.com)
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-orange)](https://stackoverflow.com/users/9776821/jatin-krishna-habibkar)
-![](https://visitor-badge.glitch.me/badge?page_id=JATIN2111999.JATIN2111999)
+![](https://visitor-badge.glitch.me/badge?page_id=jatinhabibkar.jatinhabibkar)
 
 
-![Source's github stats](https://github-readme-stats.vercel.app/api?username=JATIN2111999&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&showicons=true)
+![Source's github stats](https://github-readme-stats.vercel.app/api?username=jatinhabibkar&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&showicons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JATIN2111999&layout=compact&langs_count=5&theme=dark&bg_color=0D1117&hide_border=true&hide=html,css,php&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhabibkar&layout=compact&langs_count=5&theme=dark&bg_color=0D1117&hide_border=true&hide=html,css,php&card_width=445)
 
 
 # Languages and tools
