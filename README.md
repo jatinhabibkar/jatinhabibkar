@@ -1,13 +1,13 @@
 ### Hi there, I'm Jatin Krishna Habibkar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
-[<img align="left" alt="Medium" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-152.png" />](https://jatinhabibkar.medium.com/) &nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jatinhabibkar)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/autocadme)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jatinkrishnahabibkar@gmail.com)
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-orange)](https://stackoverflow.com/users/9776821/jatin-krishna-habibkar)
 ![](https://visitor-badge.glitch.me/badge?page_id=jatinhabibkar.jatinhabibkar)
+![](https://komarev.com/ghpvc/?username=jatinhabibkar)
 
 
-![Source's github stats](https://github-readme-stats.vercel.app/api?username=jatinhabibkar&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&showicons=true)
+<!--![Source's github stats](https://github-readme-stats.vercel.app/api?username=jatinhabibkar&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&showicons=true)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinhabibkar&layout=compact&langs_count=5&theme=dark&bg_color=0D1117&hide_border=true&hide=html,css,php&card_width=445)
 
