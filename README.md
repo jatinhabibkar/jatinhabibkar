@@ -1,4 +1,4 @@
-### Hi there, I'm Jatin Krishna Habibkar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
+### Hi there, I'm Jatin Krishna Habibkar
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jatinhabibkar)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/autocadme)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jatinkrishnahabibkar@gmail.com)
