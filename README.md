@@ -1,7 +1,6 @@
 ### Hi there, I'm Jatin Krishna Habibkar
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jatinhabibkar)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/autocadme)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jatinkrishnahabibkar@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:habibkar.jatin.17ce1008@gmail.com)
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-orange)](https://stackoverflow.com/users/9776821/jatin-krishna-habibkar)
 ![](https://visitor-badge.glitch.me/badge?page_id=jatinhabibkar.jatinhabibkar)
 ![](https://komarev.com/ghpvc/?username=jatinhabibkar)
